@@ -1,2 +1,2 @@
 # Sicheng-Wei's Personal Page
-Link: https://sichengwei.github.io
+Link: https://sicheng-wei.github.io
